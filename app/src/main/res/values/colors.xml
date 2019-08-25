@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff8c1a</color>
+
+    <color name="colorPrimaryDark">#c55d00</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorOnPrimaryDark">#ffffff</color>
+    <color name="colorPrimaryLight1">#0D009688</color>
+    <color name="colorPrimaryLight">#0Dff9933</color>
+    <color name="colorSurface">@android:color/white</color>
+    <color name="textColor">#000000</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#BD000000</color>
+    <color name="vegetarianColor">#008300</color>
+    <color name="nonVegetarianColor">#973F1C</color>
+    <color name="orderProgressLineDone">#43A047</color>
+    <color name="orderProgressCircleDone">#43A047</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <!-- The background color, preferably the same as your normal theme -->
+    <!--<item>-->
+    <!--<bitmap android:src="@mipmap/launch_screen_background" />-->
+    <!--</item>-->
+    <item>
+        <color android:color="@color/colorSurface" />
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/logo" />
+    </item>
+</layer-list>
